@@ -1,0 +1,29 @@
+Total primes:  996
+	Ending in 1:      245          24.5984
+	Ending in 3:      252          25.3012
+	Ending in 7:      254          25.5020
+	Ending in 9:      245          24.5984
+
+	Total primes ending in 1:  245
+		Next ends in 1:       34          13.8776
+		Next ends in 3:       83          33.8776
+		Next ends in 7:       97          39.5918
+		Next ends in 9:       31          12.6531
+
+	Total primes ending in 3:  252
+		Next ends in 1:       45          17.8571
+		Next ends in 3:       23           9.1270
+		Next ends in 7:       85          33.7302
+		Next ends in 9:       99          39.2857
+
+	Total primes ending in 7:  254
+		Next ends in 1:       70          27.5591
+		Next ends in 3:       77          30.3150
+		Next ends in 7:       26          10.2362
+		Next ends in 9:       81          31.8898
+
+	Total primes ending in 9:  245
+		Next ends in 1:       96          39.1837
+		Next ends in 3:       69          28.1633
+		Next ends in 7:       45          18.3673
+		Next ends in 9:       35          14.2857

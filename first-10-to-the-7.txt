@@ -1,0 +1,29 @@
+Total primes:  9999996
+	Ending in 1:  2499755          24.9976
+	Ending in 3:  2500207          25.0021
+	Ending in 7:  2500283          25.0028
+	Ending in 9:  2499751          24.9975
+
+	Total primes ending in 1:  2499755
+		Next ends in 1:   446808          17.8741
+		Next ends in 3:   756071          30.2458
+		Next ends in 7:   769923          30.7999
+		Next ends in 9:   526953          21.0802
+
+	Total primes ending in 3:  2500207
+		Next ends in 1:   593195          23.7258
+		Next ends in 3:   422302          16.8907
+		Next ends in 7:   714795          28.5894
+		Next ends in 9:   769915          30.7941
+
+	Total primes ending in 7:  2500283
+		Next ends in 1:   639384          25.5725
+		Next ends in 3:   681759          27.2673
+		Next ends in 7:   422289          16.8896
+		Next ends in 9:   756851          30.2706
+
+	Total primes ending in 9:  2499751
+		Next ends in 1:   820368          32.8180
+		Next ends in 3:   640076          25.6056
+		Next ends in 7:   593275          23.7334
+		Next ends in 9:   446032          17.8431
